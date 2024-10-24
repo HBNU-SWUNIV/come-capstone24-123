@@ -33,7 +33,11 @@
     
 ## Case Study
   - ### Description
+
+    ### Deauth Attack
     <img src="https://github.com/user-attachments/assets/3ddb8596-0f8b-4047-a531-4c9264b34283" alt="Picture3" width="500px">
+
+    ### GPS Spoofing
     <img src="https://github.com/user-attachments/assets/be3dbc02-67f1-4167-973d-485074ae9499" alt="Picture4" width="500px">
 
 
