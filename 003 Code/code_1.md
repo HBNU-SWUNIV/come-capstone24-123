@@ -2,7 +2,7 @@
 =================
 
 
-#1. Deauth Attack
+1.Deauth Attack
 ---------------
 
 무선 랜카드가 장착된 Kali Linux 환경에서 행한다.
@@ -73,24 +73,6 @@ HackRF-One을 연결한 Linux 환경에서 행한다.
 > hackrf_transfer -t gpssim.bin -f 1575420000 -s 2600000 -a 1 -x 40
 > ```
 
-#2. Gps Spoofing Attack
----------------
-> https://github.com/osqzss/gps-sdr-sim에서 gps-sdr-sim을 clone해온다.
-> ```
-> git clone https://github.com/osqzss/gps-sdr-sim.git
-> ```
-
-> gps-sdr-sim 디렉토리로 이동해서 아래 명령어를 입력해준다.
-> ```
-> gcc gpssim.c -lm -O3 -o gps-sdr-sim
-> ```
-> 이렇게 하면 ELF라는 리눅스 실행파일이 생성된다.
-
-> 나사 데이터 센터에서 가장 최근의 GPS 천체력 파일을 다운받고, 다운받은 파일의 압축을 해제한다.
-> ```
-> mv brdc1520.24n.gz /gps-sdr-sim
-> cp /home/seulki/brdc1520.24n.gz ./brdc1520.24n.gz
-> ```
 
 
 
