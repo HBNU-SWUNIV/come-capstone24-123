@@ -73,6 +73,10 @@ HackRF-One을 연결한 Linux 환경에서 행한다.
 > hackrf_transfer -t gpssim.bin -f 1575420000 -s 2600000 -a 1 -x 40
 > ```
 
+1.인증해제 공격
+---------------
+
+
 
 
 
