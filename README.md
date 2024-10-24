@@ -42,9 +42,9 @@
       
     ### - GPS Spoofing
     <img src="https://github.com/user-attachments/assets/be3dbc02-67f1-4167-973d-485074ae9499" alt="Picture4" width="500px">
-    <div style="display: flex; justify-content: center; gap: 20px;">
-        <img src="https://github.com/user-attachments/assets/ad8a9ac8-9e9b-43d2-a86a-b52d9f5c1f50" alt="Picture6" width="500px">
-        <img src="https://github.com/user-attachments/assets/aa1d034f-834b-49bd-85b4-f17dede9cc35" alt="Picture7" width="500px">
+    <div style="display: flex; justify-content: center; gap: 10px;">
+        <img src="https://github.com/user-attachments/assets/ad8a9ac8-9e9b-43d2-a86a-b52d9f5c1f50" alt="Picture6" width="400px">
+        <img src="https://github.com/user-attachments/assets/aa1d034f-834b-49bd-85b4-f17dede9cc35" alt="Picture7" width="400px">
     </div>
 
     - 위조된 경도, 위도 파일의 신호를 생성한다.
