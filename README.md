@@ -52,8 +52,7 @@
             
     ### - Security Manager Protocol
     <img src="https://github.com/user-attachments/assets/13532ae0-e1b2-4468-b79c-b754dc3e1e9e" alt="Picture5" width="500px">
-    <img src="https://github.com/user-attachments/assets/d8a6bfce-b894-42ae-8c33-68a0b55bfd2c" alt="Picture8" width="500px">
-
+    <img src="https://github.com/user-attachments/assets/50672f87-b6ff-4905-bb1e-abcfacae5a70" alt="Picture8" width="500px">
     - 서버가 AP에 연결된 클라이언트의 명령어 정보를 받으며 암·복호화 KEY를 확인한다. 이 때 KEY가 같으면 정상적인 작동이 이루어지지만 KEY가 다를 경우 명령이 거부되고, 3번 이상 틀린 클라이언트 기기의 MAC 주소는 Ban-list에 추가되어 연결이 제한된다.
     - 서버의 KEY는 매 실행시에 새롭게 설정되어 드론의 소유주가 아니면 알 수 없다.
     - 위 과정에서 서버와 클라이언트 사이에 전송되는 명령은 AES 방식으로 암호화되어 패킷 유출에 대응한다.
