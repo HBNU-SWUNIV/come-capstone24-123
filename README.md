@@ -7,8 +7,8 @@
 
 ## <u>Teamate</u> Project Background
 - ### 필요성
-  - OOO
-  - OOO
+  - Wi-Fi 기반 드론의 보안이 Wi-Fi의 비밀번호에 의존
+  - 컨트롤러와 드론 간의 패킷에서 명령어 등이 노출
 - ### 기존 해결책의 문제점
   - OOO
   - OOO
