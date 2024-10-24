@@ -37,8 +37,8 @@
     ### - Deauth Attack
     <img src="https://github.com/user-attachments/assets/3ddb8596-0f8b-4047-a531-4c9264b34283" alt="Picture3" width="500px">
     
-    - 공격자가 목표 드론의 AP에 연결되어있는 기기들에 대해 Deauth 패킷을 전송하면 해당 기기들의 AP 접속이 해제되고 공격자가 드론의 제어권을 탈취 가능
-    - 드론의 AP에서 임의의 접근에 대한 추가적인 방어책이 필요
+    - 공격자가 목표 드론의 AP에 연결되어있는 기기들에 대해 Deauth 패킷을 전송하면 해당 기기들의 AP 접속이 해제되고 공격자가 드론의 제어권을 탈취 가능하다.
+    - 드론의 AP에서 임의의 접근에 대한 추가적인 방어책이 필요하다.
       
     ### - GPS Spoofing
     <img src="https://github.com/user-attachments/assets/be3dbc02-67f1-4167-973d-485074ae9499" alt="Picture4" width="500px">
@@ -49,11 +49,16 @@
 
     - 위조된 경도, 위도 파일의 신호를 생성한다.
     - 생성된 파일을 HackRF로 위조된 신호를 생성하여 GPS 모듈에 전송하면 위조된 위치로 값이 변경된다.
-      
+            
     ### - Security Manager Protocol
     <img src="https://github.com/user-attachments/assets/13532ae0-e1b2-4468-b79c-b754dc3e1e9e" alt="Picture5" width="500px">
 
-    - 
+    - 서버가 AP에 연결된 클라이언트의 명령어 정보를 받으며 암·복호화 KEY를 확인한다. 이 때 KEY가 같으면 정상적인 작동이 이루어지지만 KEY가 다를 경우 명령이 거부되고, 3번 이상 틀린 클라이언트 기기의 MAC 주소는 Ban-list에 추가되어 연결이 제한된다.
+    - 서버의 KEY는 매 실행시에 새롭게 설정되어 드론의 소유주가 아니면 알 수 없다.
+    - 위 과정에서 서버와 클라이언트 사이에 전송되는 명령은 AES 방식으로 암호화되어 패킷 유출에 대응한다.
+드론의 AP에 연결되어있는 기기들에 대해 Deauth 패킷을 전송하면 해당 기기들의 AP 접속이 해제되고 공격자가 드론의 제어권을 탈취 가능하다.
+    - 드론의 AP에서 임의의 접근에 대한 추가적인 방어책이 필요하다.
+      
 
 
   
