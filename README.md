@@ -36,7 +36,7 @@
 
       ### Deauth Attack
     <img src="https://github.com/user-attachments/assets/3ddb8596-0f8b-4047-a531-4c9264b34283" alt="Picture3" width="500px">
-    인증해제 공격 : 공격자가 목표 드론의 AP에 연결되어있는 기기들에 대해 Deauth 패킷을 전송하면 해당 기기들의 AP 접속이 해제됨  
+    <br/>인증해제 공격 : 공격자가 목표 드론의 AP에 연결되어있는 기기들에 대해 Deauth 패킷을 전송하면 해당 기기들의 AP 접속이 해제됨  
     이 공격을 통해 공격자가 드론의 제어권을 탈취 가능
 
       ### GPS Spoofing
