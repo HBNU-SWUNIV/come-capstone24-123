@@ -2,7 +2,7 @@
 =================
 
 
-1.인증해제 공격
+#1. Deauth Attack
 ---------------
 
 무선 랜카드가 장착된 Kali Linux 환경에서 행한다.
@@ -73,7 +73,7 @@ HackRF-One을 연결한 Linux 환경에서 행한다.
 > hackrf_transfer -t gpssim.bin -f 1575420000 -s 2600000 -a 1 -x 40
 > ```
 
-1.인증해제 공격
+#2. Gps Spoofing Attack
 ---------------
 
 
