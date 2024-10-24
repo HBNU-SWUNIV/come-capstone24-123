@@ -39,13 +39,14 @@
     
     - 공격자가 목표 드론의 AP에 연결되어있는 기기들에 대해 Deauth 패킷을 전송하면 해당 기기들의 AP 접속이 해제되고 공격자가 드론의 제어권을 탈취 가능
     - 드론의 AP에서 임의의 접근에 대한 추가적인 방어책이 필요
-
-      <br/>### - GPS Spoofing
+<br/>
+      ### - GPS Spoofing
     <img src="https://github.com/user-attachments/assets/be3dbc02-67f1-4167-973d-485074ae9499" alt="Picture4" width="500px">
+    
     - 위조된 경도, 위도 파일의 신호를 생성한다.
     - 생성된 파일을 HackRF로 위조된 신호를 생성하여 GPS 모듈에 전송하면 위조된 위치로 값이 변경된다.
-    
-      <br/>### - Security Manager Protocol
+<br/>
+      ### - Security Manager Protocol
     <img src="https://github.com/user-attachments/assets/13532ae0-e1b2-4468-b79c-b754dc3e1e9e" alt="Picture5" width="500px">
 
     - 
