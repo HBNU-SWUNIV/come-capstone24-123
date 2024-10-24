@@ -33,7 +33,8 @@
     
 ## Case Study
   - ### Description
-  - ![Picture3](https://github.com/user-attachments/assets/3ddb8596-0f8b-4047-a531-4c9264b34283)
+  - <img src="https://github.com/user-attachments/assets/3ddb8596-0f8b-4047-a531-4c9264b34283" alt="Picture3" width="300px">
+
 
   
   
