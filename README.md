@@ -22,8 +22,13 @@
   
 ## System Design
   - ### System Requirements
+    ### 캡스톤디자인I
+    - 무선 LAN카드가 탑재된 Kali Linux OS의 PC
+    - Hack-RF One
+   
+    ### 캡스톤디자인II
     - ubuntu/Linux OS 기반 소형 PC를 탑재한 드론
-    - OOO
+    - Python 파일 실행, 문자열 입력이 가능한 드론 컨트롤러
     
 ## Case Study
   - ### Description
