@@ -15,7 +15,7 @@
   
 ## System Design
   - ### System Requirements
-    - ubuntu/Linux OS 기반 컴퓨터를 탑재한 드론
+    - ubuntu/Linux OS 기반 소형 PC를 탑재한 드론
     - OOO
     
 ## Case Study
