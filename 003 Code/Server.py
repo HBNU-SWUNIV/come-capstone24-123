@@ -43,7 +43,7 @@ def save_mac_address(mac_address):
 def get_key_by_mac(mac_address):
     try:
         with open("client_mac_addresses.txt", "r") as file:
-             lines=file.readlines()
+            lines=file.readlines()
             for line in reversed(lines):
                 mac, saved_key = line.strip().split()
                 if mac == mac_address:
