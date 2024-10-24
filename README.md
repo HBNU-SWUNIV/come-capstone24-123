@@ -7,8 +7,10 @@
 
 ## <u>Teamate</u> Project Background
 - ### 개요
-  <img src="https://github.com/user-attachments/assets/ac61d5a5-96ec-4b94-8fcf-86c141169574.png" width="30%">
-  <img src="https://github.com/user-attachments/assets/131915d7-a370-45cf-a2b7-cd95da88f433.png" width="40%">
+<div style="display: flex; gap: 10px;">
+  <img src="https://user-images.githubusercontent.com/12345678/example-image1.png" width="30%">
+  <img src="https://user-images.githubusercontent.com/12345678/example-image2.png" width="40%">
+</div>
   - 무선 네트워크는 전파를 통신매개로 이용한다는 특성이 있어 유선랜에 비해 보안이 취약함
   - 그 중, 와이파이는 위성통신이나 셀룰러 통신에 비해 보안성이 취약하다는 단점이 있음
   - 와이파이를 연결해서 운용하는 드론은 패킷 스니핑, 인증해제 공격과 더불어 하이재킹의 위험성이 있음
