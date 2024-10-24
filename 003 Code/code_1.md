@@ -73,8 +73,6 @@ HackRF-One을 연결한 Linux 환경에서 행한다.
 > hackrf_transfer -t gpssim.bin -f 1575420000 -s 2600000 -a 1 -x 40
 > ```
 
-# HackRF 설치방법
-![(현재 연결중인 상태) Virtual Machine → USB & Bluetooth → Connect HackRF One 하면 된다.](https://prod-files-secure.s3.us-west-2.amazonaws.com/c47f4046-7917-4309-addc-47224c6478b7/fa1d9a08-24c7-4d4a-b2c0-321d642e2769/Screenshot_0006-05-31_at_4.35.14_PM.png)
 
 (현재 연결중인 상태) Virtual Machine → USB & Bluetooth → Connect HackRF One 하면 된다.
 
